@@ -1,0 +1,27 @@
+{
+  "statusBar": [
+    {
+      "prefix": "当前文件",
+      "suffix": "字，",
+      "metric": {
+        "type": 0,
+        "counter": 0
+      }
+    }
+  ],
+  "altBar": [
+    {
+      "prefix": "",
+      "suffix": "个文件",
+      "metric": {
+        "type": 0,
+        "counter": 6
+      }
+    }
+  ],
+  "countComments": false,
+  "collectStats": false,
+  "displaySectionCounts": false,
+  "pageWords": 300,
+  "statsPath": ".obsidian/vault-stats.json"
+}

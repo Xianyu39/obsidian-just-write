@@ -1,0 +1,10 @@
+{
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "assets",
+  "promptDelete": false,
+  "smartIndentList": true,
+  "uriCallbacks": true,
+  "alwaysUpdateLinks": true
+}

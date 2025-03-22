@@ -1,0 +1,149 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "项目/欢迎来到Just Write/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2025-03-22T05:49:30.306Z",
+      "total": 4301,
+      "drafts": {
+        "项目/个人管理公众号/Index.md": {
+          "total": 4293,
+          "scenes": {
+            "JustWrite使用教程": 4293
+          }
+        },
+        "项目/欢迎来到Just Write/Index.md": {
+          "total": 4301,
+          "scenes": {
+            "JustWrite使用教程": 4301
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-22T05:49:02.329Z",
+      "total": 0,
+      "drafts": {}
+    },
+    {
+      "start": "2025-03-22T05:48:40.397Z",
+      "total": 0,
+      "drafts": {}
+    },
+    {
+      "start": "2025-03-22T05:48:39.643Z",
+      "total": 0,
+      "drafts": {}
+    },
+    {
+      "start": "2025-03-22T05:48:37.951Z",
+      "total": 0,
+      "drafts": {}
+    },
+    {
+      "start": "2025-03-22T05:48:36.622Z",
+      "total": 0,
+      "drafts": {}
+    },
+    {
+      "start": "2025-03-22T01:58:40.005Z",
+      "total": 0,
+      "drafts": {
+        "项目/个人管理公众号/Index.md": {
+          "total": 0,
+          "scenes": {
+            "2025，我的个人管理哲学以及写作计划": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-20T16:21:05.078Z",
+      "total": 111,
+      "drafts": {
+        "项目/个人管理公众号/Index.md": {
+          "total": 111,
+          "scenes": {
+            "2025，我的个人管理哲学以及写作计划": 111
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-20T13:50:31.827Z",
+      "total": 17,
+      "drafts": {
+        "项目/个人管理公众号/Index.md": {
+          "total": 17,
+          "scenes": {
+            "2025，我的个人管理哲学以及写作计划": 17
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-19T04:13:25.219Z",
+      "total": 4817,
+      "drafts": {
+        "项目/个人管理公众号/Index.md": {
+          "total": 4817,
+          "scenes": {
+            "2025，我的个人管理哲学以及写作计划": 4817
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "documents": {
+    "👏欢迎来到Just Write.md": {
+      "documentFormat": "sections",
+      "viewType": "markdown",
+      "activeSection": "1",
+      "pinnedSections": {
+        "sections": [],
+        "activeSection": null
+      },
+      "outline": {
+        "collapsedSections": []
+      }
+    },
+    "项目/欢迎来到Just Write/JustWrite使用教程.md": {
+      "documentFormat": "sections",
+      "viewType": "markdown",
+      "activeSection": "1",
+      "pinnedSections": {
+        "sections": []
+      },
+      "outline": {
+        "collapsedSections": []
+      }
+    },
+    "JustWrite使用教程.md": {
+      "documentFormat": "sections",
+      "viewType": "markdown",
+      "activeSection": "1",
+      "pinnedSections": {
+        "sections": [],
+        "activeSection": null
+      },
+      "outline": {
+        "collapsedSections": []
+      }
+    }
+  },
+  "hotkeys": {
+    "customHotkeys": {
+      "go_right": {
+        "secondary": {
+          "key": "ArrowRight",
+          "modifiers": [],
+          "editorState": "editor-off"
+        }
+      }
+    }
+  },
+  "view": {
+    "fontSize": 16,
+    "theme": {
+      "inactiveNodeOpacity": 25
+    },
+    "cardWidth": 500,
+    "cardsGap": 100,
+    "scrolling": {
+      "centerActiveNodeH": false,
+      "centerActiveNodeV": false
+    },
+    "limitPreviewHeight": false,
+    "zoomLevel": 1,
+    "showMinimap": false,
+    "showLeftSidebar": false,
+    "leftSidebarWidth": 500,
+    "leftSidebarActiveTab": "pinned-cards",
+    "applyGapBetweenCards": false,
+    "outlineMode": false,
+    "nodeIndentationWidth": 60,
+    "maintainEditMode": true,
+    "alwaysShowCardButtons": false,
+    "hiddenVerticalToolbarButtons": []
+  },
+  "general": {
+    "defaultDocumentFormat": "sections"
+  },
+  "styleRules": {
+    "documents": {}
+  }
+}

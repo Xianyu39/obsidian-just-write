@@ -1,0 +1,49 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll",
+      "icon": "lucide-air-vent",
+      "name": "Typewriter Scroll: 打字机模式",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "lineage:export-column",
+      "icon": "file-text",
+      "name": "Lineage：导出此列",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-export-image:export-image",
+      "icon": "lucide-aperture",
+      "name": "Export Image plugin: 导出为图片",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

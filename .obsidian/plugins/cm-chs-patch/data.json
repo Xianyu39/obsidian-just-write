@@ -1,0 +1,7 @@
+{
+  "useJieba": true,
+  "hmm": true,
+  "dict": "",
+  "moveByChineseWords": true,
+  "moveTillChinesePunctuation": true
+}

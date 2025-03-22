@@ -1,0 +1,11 @@
+{
+	"id": "wechat-public-platform",
+	"name": "Wechat Public Platform",
+	"version": "1.0.6",
+	"minAppVersion": "0.16.0",
+	"description": "Release the article from your vault to WeChat, Baidu Baijiahao, or another article release platform.",
+	"author": "Blake Chan",
+	"authorUrl": "https://ai-chen2050.github.io/",
+	"fundingUrl": "https://www.buymeacoffee.com/blakechan",
+	"isDesktopOnly": true
+}

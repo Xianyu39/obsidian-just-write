@@ -1,0 +1,13 @@
+{
+  "defaultStyle": "obsidian-light",
+  "defaultHighlight": "默认",
+  "showStyleUI": true,
+  "linkStyle": "footnote",
+  "embedStyle": "content",
+  "lineNumber": true,
+  "authKey": "",
+  "wxInfo": [],
+  "math": "latex",
+  "useCustomCss": false,
+  "baseCSS": ""
+}
